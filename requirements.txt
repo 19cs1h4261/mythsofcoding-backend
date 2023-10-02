@@ -3,7 +3,6 @@ anyio==3.7.1
 fastapi==0.103.1
 greenlet==2.0.2
 idna==3.4
-pandas==2.1.1
 pydantic==2.3.0
 pydantic_core==2.6.3
 python-dateutil==2.8.2
